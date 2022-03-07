@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'sherline'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D365208B885F4ADD8C52BCF660798F61 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A053C0FE4784A7F9DCAC9E7F61B06F9 }}
           package: .
